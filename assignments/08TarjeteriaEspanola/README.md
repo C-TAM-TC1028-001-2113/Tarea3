@@ -5,10 +5,17 @@ Funciones-TarjeteriaEspanola
 Modifica el programa que se encuentra en la carpeta `src` que se llama `exercise.py` y que contiene el siguiente código:
 
 ```python
-def main():
-  #escribe tu código abajo de esta línea
+# Esta función es llamada por main() para calcular el número máximo de tarjetas que
+# pueden obtenerse con los datos dados por el usuario
+def tarjetas(pliegos,plumones):
+    pass
 
-if __name__ == '__main__':
+
+def main():
+    # escribe tu código abajo de esta línea
+    pass
+
+if __name__=='__main__':
     main()
 ```
 

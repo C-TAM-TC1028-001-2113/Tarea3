@@ -1,5 +1,5 @@
 ![Tec de Monterrey](images/logotecmty.png)
-# Ejercicios con funciones
+# Tarea 3
 
 ## Configuración de pruebas con **pytest**
 
@@ -8,36 +8,6 @@
 ```
 sudo -H pip3 install pytest
 ```
-
-- ## 01 Convertidor
-    ### Run command
-    ```
-    pytest assignments/01Convertidor
-    ```
-
-- ## 02 Calcula Grado
-    ### Run command
-    ```
-    pytest assignments/02CalculaGrado
-    ```
-
-- ## 04 Tienda Sillas
-    ### Run command
-    ```
-    pytest assignments/04TiendaSillas
-    ```
-
-- ## 05 Binario - Decimal
-    ### Run command
-    ```
-    pytest assignments/05BinarioDecimal
-    ```
-
-- ## 06 Area Prisma Rectangular
-    ### Run command
-    ```
-    pytest assignments/06AreaPrismaRectangular
-    ```
 
 - ## 07 Volumen Prisma Rectangular
     ### Run command
@@ -49,16 +19,4 @@ sudo -H pip3 install pytest
     ### Run command
     ```
     pytest assignments/08TarjeteriaEspanola
-    ```
-
-- ## 09 Area Rectángulo
-    ### Run command
-    ```
-    pytest assignments/09AreaRectangulo
-    ```
-
-- ## 10 Oraciones
-    ### Run command
-    ```
-    pytest assignments/10Oraciones
     ```

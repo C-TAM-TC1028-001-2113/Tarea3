@@ -1,21 +1,12 @@
+# Esta función es llamada por main() para calcular el número máximo de tarjetas que
+# pueden obtenerse con los datos dados por el usuario
 def tarjetas(pliegos,plumones):
-    
-    tarjetasPliegos = pliegos*12
-    tarjetasPlumones = plumones*35
+    pass
 
-    if tarjetasPliegos<=tarjetasPlumones:
-        return tarjetasPliegos
-    else:
-        return tarjetasPlumones
 
 def main():
-    #escribe tu código abajo de esta línea
-    pli = int(input("Dame la cantidad de pliegos de papel albanene: "))
-    plu = int(input("Dame la cantidad de plumones: "))
-
-    r = tarjetas(pli,plu)
-
-    print("El número máximo de tarjetas que se pueden hacer es:",r)
+    # escribe tu código abajo de esta línea
+    pass
 
 if __name__=='__main__':
     main()

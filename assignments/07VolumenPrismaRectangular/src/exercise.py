@@ -1,18 +1,18 @@
-def area(base,altura):
-    return base*altura
+# Esta función es llamada por la función volumen_prisma() para calcular el
+# área de la base rectangular del prisma
+def area(base, altura):
+    pass
 
-def volumen_prisma(base,altura,profundidad):
-    return area(base,altura)*profundidad
+
+# Esta función es llamada desde main() para obtener el volumen del prisma
+# dados los datos proporcionados por el usuario
+def volumen_prisma(base, altura, profundidad):
+    pass
+
 
 def main():
-    #escribe tu código abajo de esta línea
-    b = float(input("Dame la base: "))
-    a = float(input("Dame la altura: "))
-    p = float(input("Dame la profundidad: "))
-
-    r = volumen_prisma(b,a,p)
-
-    print("El volumen del prisma es:",r)
+    # escribe tu código abajo de esta línea
+    pass
 
 if __name__=='__main__':
     main()
